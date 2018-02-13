@@ -1,0 +1,23 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.EZmicrocontroller.org/Arduino.html</loc>
+	</url>
+	<url>
+		<loc>http://www.EZmicrocontroller.org/home.html</loc>
+	</url>
+	<url>
+		<loc>http://www.EZmicrocontroller.org/RaspberryPi_GettingStarted.html</loc>
+	</url>
+	<url>
+		<loc>http://www.EZmicrocontroller.org/Arduino_GettingStarted.html</loc>
+	</url>
+	<url>
+		<loc>http://www.EZmicrocontroller.org/RaspberryPi.html</loc>
+	</url>
+	<url>
+		<loc>http://www.EZmicrocontroller.org/arduino_guide_list.html</loc>
+	</url>
+	<url>
+		<loc>http://www.EZmicrocontroller.org/raspberrypi_guide_list.html</loc>
+	</url>
+</urlset>
